@@ -24,8 +24,6 @@
 
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in your preferred web browser.
-3. Explore the dynamic features and stunning visuals of the landing page.
-4. Feel free to customize and adapt the code to suit your needs.
 
 ## Credits
 
