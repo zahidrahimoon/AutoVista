@@ -6,9 +6,8 @@
     text-decoration: none;
     list-style: none;
     scroll-behavior: smooth;
+    overflow-x: hidden;
     font-family: 'Poppins', sans-serif;
-    overflow-x: auto;
-    scrollbar-width: none;
 }
 :root{
     --nav-bacground: black;
@@ -19,6 +18,12 @@
     --sections-body-color:black;
     --footer-background:#282323;
     --card-bg-color: white;
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+.custom-scrollbar::-webkit-scrollbar {
+    display: none;
 }
 body{
     width: 100%;
@@ -152,9 +157,6 @@ body{
     .home{
         background-position: 50%;
         
-    }
-    body{
-        overflow-x: hidden !important;
     }
     .home .content h1 {
         font-size: 20px;
