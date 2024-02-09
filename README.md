@@ -1,6 +1,7 @@
 # AutoVision: Explore the Road Ahead
 
-AutoVision is a dynamic car landing page designed to showcase the latest in automotive innovation. With sleek design elements, interactive features, and stunning imagery sourced from Unsplash, it offers an immersive experience for car enthusiasts.
+<p align="left">AutoVision is a dynamic car landing page designed to showcase the latest in automotive innovation. With sleek design elements, interactive features, and stunning imagery sourced from Unsplash, it offers an immersive experience for car enthusiasts.</p>
+<img align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="coding" width="400">
 
 ## Technologies Used
 
